@@ -2,7 +2,7 @@
 ## Requirements
 Make sure your Python version is 3.0 or above
 ## Status
-The tokenizer and parser have been implemented. The interpreter can assign variables with integers and basic arithmetic calculations, report uninitialized variables, and general syntax errors.
+The tokenizer and parser have been implemented. The interpreter can assign variables with integers and basic arithmetic calculations, report uninitialized variables and general syntax errors.
 
 ## Usage
 Comment out the tests cases or input on main.py file.
