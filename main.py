@@ -9,4 +9,4 @@ from my_parser import Parser
 # Parser("x=0 y=x; z=---(x+y);") // Error
 # Parser("x=1;y=2;z=x+-y;") // Valid
 #Parser("x=1+5; y=x*30; z=y/2;") // Valid
-#Parser("x=50-500/2;") // Valid
+#Parser("x=500/2-50;") // Valid
