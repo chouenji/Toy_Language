@@ -1,6 +1,6 @@
 # Interpreter in Python
 ## Requirements
-Make sure your Python version is 3.0 or above
+Make sure you have Python version is 3.0 or above
 ## Status
 The tokenizer and parser have been implemented. The interpreter can assign variables with integers and basic arithmetic calculations, and report uninitialized variables and general syntax errors.
 
